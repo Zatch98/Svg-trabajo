@@ -1,0 +1,17 @@
+body{
+background-color: black;
+
+}
+svg.s{
+   margin-left: 32%; 
+   margin-top: 20%;
+}
+section{
+display: block;
+color: rgb(0, 0, 0);    
+position: absolute;
+margin-left: 56%;
+margin-top: 23%;
+font-family: sans-serif;
+font-weight: bold;
+}
